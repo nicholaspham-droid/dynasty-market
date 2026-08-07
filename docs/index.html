@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Dynasty Market</title>
+<link rel="icon" href="data:," />
+<style>
+  html, body { margin: 0; padding: 0; background: #E9EBE6; }
+  #boot {
+    font: 500 12px/1.6 system-ui, sans-serif; letter-spacing: .12em;
+    text-transform: uppercase; color: #8B938C; padding: 48px 22px;
+  }
+  #boot b { display: block; color: #8C2F39; letter-spacing: 0; text-transform: none;
+    font-size: 13px; margin-bottom: 6px; }
+  #boot code { background: #DFE3DC; padding: 1px 5px; letter-spacing: 0; text-transform: none; }
+</style>
+</head>
+<body>
+<div id="root"><div id="boot">Starting</div></div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
+
+<script>
+/* Compiles Dashboard.jsx in the browser so this runs from any static host
+   with no build step. Module syntax is stripped rather than resolved, which
+   keeps it working off file servers that do not set JavaScript MIME types. */
+(async function () {
+  const boot = document.getElementById("boot");
+  const fail = (title, detail) => {
+    boot.innerHTML = "<b>" + title + "</b>" + detail;
+  };
+
+  try {
+    if (!window.React || !window.Babel) {
+      return fail("Could not load React or Babel", "Check your network connection and reload.");
+    }
+
+    const response = await fetch("Dashboard.jsx");
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    const source = await response.text();
+
+    // Module syntax has to go before Babel sees it, since a plain script
+    // cannot contain import or export at all.
+    const plain = source
+      .replace(/^\s*import[^\n]*from\s+["'][^"']+["'];?\s*$/gm, "")
+      .replace(/^\s*export\s+default\s+function/gm, "function")
+      .replace(/^\s*export\s+/gm, "");
+
+    const body = Babel.transform(plain, {
+      presets: [["react", { runtime: "classic" }]],
+      sourceType: "script",
+      compact: false,
+    }).code;
+
+    const factory = new Function(
+      "React",
+      "const { useState, useEffect, useMemo, useRef, useCallback } = React;\n" +
+        body +
+        "\nreturn Dashboard;"
+    );
+
+    const Dashboard = factory(window.React);
+    ReactDOM.createRoot(document.getElementById("root")).render(
+      React.createElement(Dashboard)
+    );
+  } catch (error) {
+    fail(
+      "Could not start the dashboard",
+      "Serve this folder over HTTP rather than opening the file directly, for example " +
+        "<code>python3 -m http.server</code> from the public directory. " +
+        "Details: " + error.message
+    );
+  }
+})();
+</script>
+</body>
+</html>

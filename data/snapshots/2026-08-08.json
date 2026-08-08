@@ -1,0 +1,2146 @@
+{
+  "captured_at": "2026-08-08T12:04:25.476863+00:00",
+  "date": "2026-08-08",
+  "diagnostics": {
+    "ktc_rows": 500,
+    "ktc_unmatched_sample": [
+      {
+        "name": "Kenneth Gainwell",
+        "pos": "RB",
+        "value": 2922
+      },
+      {
+        "name": "Chigoziem Okonkwo",
+        "pos": "TE",
+        "value": 2867
+      },
+      {
+        "name": "Bam Knight",
+        "pos": "RB",
+        "value": 1004
+      },
+      {
+        "name": "Matthew Hibner",
+        "pos": "TE",
+        "value": 894
+      }
+    ],
+    "matched": 460,
+    "rostered_without_value": []
+  },
+  "format": "superflex",
+  "free_agents": [
+    {
+      "age": 24,
+      "name": "Bijan Robinson",
+      "nfl": "ATL",
+      "player_id": "9509",
+      "pos": "RB",
+      "value": 9999
+    },
+    {
+      "age": 26,
+      "name": "Ja'Marr Chase",
+      "nfl": "CIN",
+      "player_id": "7564",
+      "pos": "WR",
+      "value": 9995
+    },
+    {
+      "age": 24,
+      "name": "Jahmyr Gibbs",
+      "nfl": "DET",
+      "player_id": "9221",
+      "pos": "RB",
+      "value": 9988
+    },
+    {
+      "age": 30,
+      "name": "Josh Allen",
+      "nfl": "BUF",
+      "player_id": "4984",
+      "pos": "QB",
+      "value": 9982
+    },
+    {
+      "age": 24,
+      "name": "Jaxon Smith-Njigba",
+      "nfl": "SEA",
+      "player_id": "9488",
+      "pos": "WR",
+      "value": 9296
+    },
+    {
+      "age": 23,
+      "name": "Drake Maye",
+      "nfl": "NE",
+      "player_id": "11564",
+      "pos": "QB",
+      "value": 9198
+    },
+    {
+      "age": 25,
+      "name": "Puka Nacua",
+      "nfl": "LAR",
+      "player_id": "9493",
+      "pos": "WR",
+      "value": 8908
+    },
+    {
+      "age": 23,
+      "name": "Brock Bowers",
+      "nfl": "LV",
+      "player_id": "11604",
+      "pos": "TE",
+      "value": 8293
+    },
+    {
+      "age": 24,
+      "name": "Caleb Williams",
+      "nfl": "CHI",
+      "player_id": "11560",
+      "pos": "QB",
+      "value": 7916
+    },
+    {
+      "age": 26,
+      "name": "Amon-Ra St. Brown",
+      "nfl": "DET",
+      "player_id": "7547",
+      "pos": "WR",
+      "value": 7862
+    },
+    {
+      "age": 22,
+      "name": "Ashton Jeanty",
+      "nfl": "LV",
+      "player_id": "12527",
+      "pos": "RB",
+      "value": 7591
+    },
+    {
+      "age": 25,
+      "name": "Jayden Daniels",
+      "nfl": "WAS",
+      "player_id": "11566",
+      "pos": "QB",
+      "value": 7572
+    },
+    {
+      "age": 29,
+      "name": "Lamar Jackson",
+      "nfl": "BAL",
+      "player_id": "4881",
+      "pos": "QB",
+      "value": 7543
+    },
+    {
+      "age": 27,
+      "name": "Justin Jefferson",
+      "nfl": "MIN",
+      "player_id": "6794",
+      "pos": "WR",
+      "value": 7499
+    },
+    {
+      "age": 29,
+      "name": "Joe Burrow",
+      "nfl": "CIN",
+      "player_id": "6770",
+      "pos": "QB",
+      "value": 7402
+    },
+    {
+      "age": 23,
+      "name": "Malik Nabers",
+      "nfl": "NYG",
+      "player_id": "11632",
+      "pos": "WR",
+      "value": 7389
+    },
+    {
+      "age": 21,
+      "name": "Jeremiyah Love",
+      "nfl": "ARI",
+      "player_id": "13287",
+      "pos": "RB",
+      "value": 7363
+    },
+    {
+      "age": 26,
+      "name": "Trey McBride",
+      "nfl": "ARI",
+      "player_id": "8130",
+      "pos": "TE",
+      "value": 7328
+    },
+    {
+      "age": 27,
+      "name": "CeeDee Lamb",
+      "nfl": "DAL",
+      "player_id": "6786",
+      "pos": "WR",
+      "value": 7117
+    },
+    {
+      "age": 28,
+      "name": "Justin Herbert",
+      "nfl": "LAC",
+      "player_id": "6797",
+      "pos": "QB",
+      "value": 7049
+    },
+    {
+      "age": 23,
+      "name": "Omarion Hampton",
+      "nfl": "LAC",
+      "player_id": "12507",
+      "pos": "RB",
+      "value": 7033
+    },
+    {
+      "age": 25,
+      "name": "Drake London",
+      "nfl": "ATL",
+      "player_id": "8112",
+      "pos": "WR",
+      "value": 6991
+    },
+    {
+      "age": 24,
+      "name": "De'Von Achane",
+      "nfl": "MIA",
+      "player_id": "9226",
+      "pos": "RB",
+      "value": 6823
+    },
+    {
+      "age": 23,
+      "name": "Tetairoa McMillan",
+      "nfl": "CAR",
+      "player_id": "12526",
+      "pos": "WR",
+      "value": 6366
+    },
+    {
+      "age": 22,
+      "name": "Colston Loveland",
+      "nfl": "CHI",
+      "player_id": "12517",
+      "pos": "TE",
+      "value": 6336
+    },
+    {
+      "age": 23,
+      "name": "Emeka Egbuka",
+      "nfl": "TB",
+      "player_id": "12514",
+      "pos": "WR",
+      "value": 6303
+    },
+    {
+      "age": 30,
+      "name": "Patrick Mahomes",
+      "nfl": "KC",
+      "player_id": "4046",
+      "pos": "QB",
+      "value": 6257
+    },
+    {
+      "age": 27,
+      "name": "Jonathan Taylor",
+      "nfl": "IND",
+      "player_id": "6813",
+      "pos": "RB",
+      "value": 6247
+    },
+    {
+      "age": 26,
+      "name": "Trevor Lawrence",
+      "nfl": "JAX",
+      "player_id": "7523",
+      "pos": "QB",
+      "value": 6241
+    },
+    {
+      "age": 23,
+      "name": "Jaxson Dart",
+      "nfl": "NYG",
+      "player_id": "12508",
+      "pos": "QB",
+      "value": 6176
+    },
+    {
+      "age": 25,
+      "name": "George Pickens",
+      "nfl": "DAL",
+      "player_id": "8137",
+      "pos": "WR",
+      "value": 6170
+    },
+    {
+      "age": 26,
+      "name": "James Cook",
+      "nfl": "BUF",
+      "player_id": "8138",
+      "pos": "RB",
+      "value": 6165
+    },
+    {
+      "age": 28,
+      "name": "Jalen Hurts",
+      "nfl": "PHI",
+      "player_id": "6904",
+      "pos": "QB",
+      "value": 6098
+    },
+    {
+      "age": 26,
+      "name": "Bo Nix",
+      "nfl": "DEN",
+      "player_id": "11563",
+      "pos": "QB",
+      "value": 5969
+    },
+    {
+      "age": 21,
+      "name": "Carnell Tate",
+      "nfl": "TEN",
+      "player_id": "13279",
+      "pos": "WR",
+      "value": 5966
+    },
+    {
+      "age": 24,
+      "name": "Tyler Warren",
+      "nfl": "IND",
+      "player_id": "12518",
+      "pos": "TE",
+      "value": 5909
+    },
+    {
+      "age": 26,
+      "name": "Brock Purdy",
+      "nfl": "SF",
+      "player_id": "8183",
+      "pos": "QB",
+      "value": 5672
+    },
+    {
+      "age": 24,
+      "name": "Ladd McConkey",
+      "nfl": "LAC",
+      "player_id": "11635",
+      "pos": "WR",
+      "value": 5621
+    },
+    {
+      "age": 26,
+      "name": "Chris Olave",
+      "nfl": "NO",
+      "player_id": "8144",
+      "pos": "WR",
+      "value": 5611
+    },
+    {
+      "age": 25,
+      "name": "Kenneth Walker",
+      "nfl": "KC",
+      "player_id": "8151",
+      "pos": "RB",
+      "value": 5593
+    },
+    {
+      "age": 27,
+      "name": "Nico Collins",
+      "nfl": "HOU",
+      "player_id": "7569",
+      "pos": "WR",
+      "value": 5579
+    },
+    {
+      "age": 22,
+      "name": "Luther Burden",
+      "nfl": "CHI",
+      "player_id": "12519",
+      "pos": "WR",
+      "value": 5542
+    },
+    {
+      "age": 26,
+      "name": "Garrett Wilson",
+      "nfl": "NYJ",
+      "player_id": "8146",
+      "pos": "WR",
+      "value": 5525
+    },
+    {
+      "age": 26,
+      "name": "Chase Brown",
+      "nfl": "CIN",
+      "player_id": "9224",
+      "pos": "RB",
+      "value": 5484
+    },
+    {
+      "age": 27,
+      "name": "DeVonta Smith",
+      "nfl": "PHI",
+      "player_id": "7525",
+      "pos": "WR",
+      "value": 5481
+    },
+    {
+      "age": 22,
+      "name": "Quinshon Judkins",
+      "nfl": "CLE",
+      "player_id": "12512",
+      "pos": "RB",
+      "value": 5456
+    },
+    {
+      "age": 22,
+      "name": "Fernando Mendoza",
+      "nfl": "LV",
+      "player_id": "13269",
+      "pos": "QB",
+      "value": 5445
+    },
+    {
+      "age": 27,
+      "name": "Jordan Love",
+      "nfl": "GB",
+      "player_id": "6804",
+      "pos": "QB",
+      "value": 5422
+    },
+    {
+      "age": 21,
+      "name": "Jordyn Tyson",
+      "nfl": "NO",
+      "player_id": "13281",
+      "pos": "WR",
+      "value": 5337
+    },
+    {
+      "age": 25,
+      "name": "Zay Flowers",
+      "nfl": "BAL",
+      "player_id": "9997",
+      "pos": "WR",
+      "value": 5314
+    },
+    {
+      "age": 30,
+      "name": "Christian McCaffrey",
+      "nfl": "SF",
+      "player_id": "4034",
+      "pos": "RB",
+      "value": 5309
+    },
+    {
+      "age": 24,
+      "name": "Rome Odunze",
+      "nfl": "CHI",
+      "player_id": "11620",
+      "pos": "WR",
+      "value": 5275
+    },
+    {
+      "age": 23,
+      "name": "TreVeyon Henderson",
+      "nfl": "NE",
+      "player_id": "12529",
+      "pos": "RB",
+      "value": 5263
+    },
+    {
+      "age": 25,
+      "name": "Breece Hall",
+      "nfl": "NYJ",
+      "player_id": "8155",
+      "pos": "RB",
+      "value": 5240
+    },
+    {
+      "age": 24,
+      "name": "Cam Ward",
+      "nfl": "TEN",
+      "player_id": "12522",
+      "pos": "QB",
+      "value": 5145
+    },
+    {
+      "age": 29,
+      "name": "Saquon Barkley",
+      "nfl": "PHI",
+      "player_id": "4866",
+      "pos": "RB",
+      "value": 5078
+    },
+    {
+      "age": 22,
+      "name": "Makai Lemon",
+      "nfl": "PHI",
+      "player_id": "13294",
+      "pos": "WR",
+      "value": 5022
+    },
+    {
+      "age": 29,
+      "name": "A.J. Brown",
+      "nfl": "NE",
+      "player_id": "5859",
+      "pos": "WR",
+      "value": 5021
+    },
+    {
+      "age": 26,
+      "name": "Rashee Rice",
+      "nfl": "KC",
+      "player_id": "10229",
+      "pos": "WR",
+      "value": 5017
+    },
+    {
+      "age": 33,
+      "name": "Dak Prescott",
+      "nfl": "DAL",
+      "player_id": "3294",
+      "pos": "QB",
+      "value": 4956
+    },
+    {
+      "age": 25,
+      "name": "Tucker Kraft",
+      "nfl": "GB",
+      "player_id": "9484",
+      "pos": "TE",
+      "value": 4955
+    },
+    {
+      "age": 27,
+      "name": "Tee Higgins",
+      "nfl": "CIN",
+      "player_id": "6801",
+      "pos": "WR",
+      "value": 4937
+    },
+    {
+      "age": 25,
+      "name": "Kyren Williams",
+      "nfl": "LAR",
+      "player_id": "8150",
+      "pos": "RB",
+      "value": 4916
+    },
+    {
+      "age": 22,
+      "name": "Jadarian Price",
+      "nfl": "SEA",
+      "player_id": "13286",
+      "pos": "RB",
+      "value": 4886
+    },
+    {
+      "age": 24,
+      "name": "Cam Skattebo",
+      "nfl": "NYG",
+      "player_id": "12481",
+      "pos": "RB",
+      "value": 4861
+    },
+    {
+      "age": 27,
+      "name": "Jaylen Waddle",
+      "nfl": "DEN",
+      "player_id": "7526",
+      "pos": "WR",
+      "value": 4859
+    },
+    {
+      "age": 23,
+      "name": "Brian Thomas",
+      "nfl": "JAX",
+      "player_id": "11631",
+      "pos": "WR",
+      "value": 4850
+    },
+    {
+      "age": 23,
+      "name": "Marvin Harrison",
+      "nfl": "ARI",
+      "player_id": "11628",
+      "pos": "WR",
+      "value": 4842
+    },
+    {
+      "age": 26,
+      "name": "Tyler Shough",
+      "nfl": "NO",
+      "player_id": "12545",
+      "pos": "QB",
+      "value": 4768
+    },
+    {
+      "age": 23,
+      "name": "Bucky Irving",
+      "nfl": "TB",
+      "player_id": "11584",
+      "pos": "RB",
+      "value": 4764
+    },
+    {
+      "age": 22,
+      "name": "Harold Fannin",
+      "nfl": "CLE",
+      "player_id": "12506",
+      "pos": "TE",
+      "value": 4763
+    },
+    {
+      "age": 25,
+      "name": "Jameson Williams",
+      "nfl": "DET",
+      "player_id": "8148",
+      "pos": "WR",
+      "value": 4705
+    },
+    {
+      "age": 31,
+      "name": "Jared Goff",
+      "nfl": "DET",
+      "player_id": "3163",
+      "pos": "QB",
+      "value": 4682
+    },
+    {
+      "age": 31,
+      "name": "Baker Mayfield",
+      "nfl": "TB",
+      "player_id": "4892",
+      "pos": "QB",
+      "value": 4642
+    },
+    {
+      "age": 24,
+      "name": "C.J. Stroud",
+      "nfl": "HOU",
+      "player_id": "9758",
+      "pos": "QB",
+      "value": 4620
+    },
+    {
+      "age": 26,
+      "name": "Javonte Williams",
+      "nfl": "DAL",
+      "player_id": "7588",
+      "pos": "RB",
+      "value": 4589
+    },
+    {
+      "age": 25,
+      "name": "Sam LaPorta",
+      "nfl": "DET",
+      "player_id": "10859",
+      "pos": "TE",
+      "value": 4589
+    },
+    {
+      "age": 25,
+      "name": "Kyle Pitts",
+      "nfl": "ATL",
+      "player_id": "7553",
+      "pos": "TE",
+      "value": 4555
+    },
+    {
+      "age": 23,
+      "name": "Bhayshul Tuten",
+      "nfl": "JAX",
+      "player_id": "12490",
+      "pos": "RB",
+      "value": 4415
+    },
+    {
+      "age": 29,
+      "name": "Sam Darnold",
+      "nfl": "SEA",
+      "player_id": "4943",
+      "pos": "QB",
+      "value": 4329
+    },
+    {
+      "age": 21,
+      "name": "KC Concepcion",
+      "nfl": "CLE",
+      "player_id": "13298",
+      "pos": "WR",
+      "value": 4292
+    },
+    {
+      "age": 27,
+      "name": "Travis Etienne",
+      "nfl": "NO",
+      "player_id": "7543",
+      "pos": "RB",
+      "value": 4269
+    },
+    {
+      "age": 32,
+      "name": "Derrick Henry",
+      "nfl": "BAL",
+      "player_id": "3198",
+      "pos": "RB",
+      "value": 4137
+    },
+    {
+      "age": 28,
+      "name": "Josh Jacobs",
+      "nfl": "GB",
+      "player_id": "5850",
+      "pos": "RB",
+      "value": 4118
+    },
+    {
+      "age": 24,
+      "name": "Parker Washington",
+      "nfl": "JAX",
+      "player_id": "9487",
+      "pos": "WR",
+      "value": 3985
+    },
+    {
+      "age": 24,
+      "name": "Jordan Addison",
+      "nfl": "MIN",
+      "player_id": "9756",
+      "pos": "WR",
+      "value": 3908
+    },
+    {
+      "age": 27,
+      "name": "Christian Watson",
+      "nfl": "GB",
+      "player_id": "8167",
+      "pos": "WR",
+      "value": 3907
+    },
+    {
+      "age": 21,
+      "name": "Kenyon Sadiq",
+      "nfl": "NYJ",
+      "player_id": "13330",
+      "pos": "TE",
+      "value": 3898
+    },
+    {
+      "age": 25,
+      "name": "Bryce Young",
+      "nfl": "CAR",
+      "player_id": "9228",
+      "pos": "QB",
+      "value": 3893
+    },
+    {
+      "age": 29,
+      "name": "Daniel Jones",
+      "nfl": "IND",
+      "player_id": "5870",
+      "pos": "QB",
+      "value": 3889
+    },
+    {
+      "age": 29,
+      "name": "Kyler Murray",
+      "nfl": "MIN",
+      "player_id": "5849",
+      "pos": "QB",
+      "value": 3845
+    },
+    {
+      "age": 38,
+      "name": "Matthew Stafford",
+      "nfl": "LAR",
+      "player_id": "421",
+      "pos": "QB",
+      "value": 3843
+    },
+    {
+      "age": 26,
+      "name": "Alec Pierce",
+      "nfl": "IND",
+      "player_id": "8142",
+      "pos": "WR",
+      "value": 3829
+    },
+    {
+      "age": 26,
+      "name": "Michael Wilson",
+      "nfl": "ARI",
+      "player_id": "10232",
+      "pos": "WR",
+      "value": 3751
+    },
+    {
+      "age": 27,
+      "name": "D'Andre Swift",
+      "nfl": "CHI",
+      "player_id": "6790",
+      "pos": "RB",
+      "value": 3738
+    },
+    {
+      "age": 24,
+      "name": "Josh Downs",
+      "nfl": "IND",
+      "player_id": "9500",
+      "pos": "WR",
+      "value": 3638
+    },
+    {
+      "age": 27,
+      "name": "Malik Willis",
+      "nfl": "MIA",
+      "player_id": "8161",
+      "pos": "QB",
+      "value": 3636
+    },
+    {
+      "age": 29,
+      "name": "DJ Moore",
+      "nfl": "BUF",
+      "player_id": "4983",
+      "pos": "WR",
+      "value": 3604
+    },
+    {
+      "age": 23,
+      "name": "Matthew Golden",
+      "nfl": "GB",
+      "player_id": "12501",
+      "pos": "WR",
+      "value": 3586
+    },
+    {
+      "age": 22,
+      "name": "Denzel Boston",
+      "nfl": "CLE",
+      "player_id": "13346",
+      "pos": "WR",
+      "value": 3586
+    },
+    {
+      "age": 24,
+      "name": "Quentin Johnston",
+      "nfl": "LAC",
+      "player_id": "9754",
+      "pos": "WR",
+      "value": 3505
+    },
+    {
+      "age": 23,
+      "name": "Jonathon Brooks",
+      "nfl": "CAR",
+      "player_id": "11583",
+      "pos": "RB",
+      "value": 3504
+    },
+    {
+      "age": 22,
+      "name": "Omar Cooper",
+      "nfl": "NYJ",
+      "player_id": "13276",
+      "pos": "WR",
+      "value": 3502
+    },
+    {
+      "age": 30,
+      "name": "Terry McLaurin",
+      "nfl": "WAS",
+      "player_id": "5927",
+      "pos": "WR",
+      "value": 3501
+    },
+    {
+      "age": 33,
+      "name": "Davante Adams",
+      "nfl": "LAR",
+      "player_id": "2133",
+      "pos": "WR",
+      "value": 3473
+    },
+    {
+      "age": 28,
+      "name": "DK Metcalf",
+      "nfl": "PIT",
+      "player_id": "5846",
+      "pos": "WR",
+      "value": 3464
+    },
+    {
+      "age": 26,
+      "name": "Isaiah Likely",
+      "nfl": "NYG",
+      "player_id": "8131",
+      "pos": "TE",
+      "value": 3463
+    },
+    {
+      "age": 24,
+      "name": "Kyle Monangai",
+      "nfl": "CHI",
+      "player_id": "12534",
+      "pos": "RB",
+      "value": 3446
+    },
+    {
+      "age": 25,
+      "name": "Blake Corum",
+      "nfl": "LAR",
+      "player_id": "11586",
+      "pos": "RB",
+      "value": 3439
+    },
+    {
+      "age": 29,
+      "name": "David Montgomery",
+      "nfl": "HOU",
+      "player_id": "5892",
+      "pos": "RB",
+      "value": 3426
+    },
+    {
+      "age": 23,
+      "name": "Ty Simpson",
+      "nfl": "LAR",
+      "player_id": "13275",
+      "pos": "QB",
+      "value": 3413
+    },
+    {
+      "age": 23,
+      "name": "Jayden Higgins",
+      "nfl": "HOU",
+      "player_id": "12484",
+      "pos": "WR",
+      "value": 3412
+    },
+    {
+      "age": 25,
+      "name": "Zach Charbonnet",
+      "nfl": "SEA",
+      "player_id": "9753",
+      "pos": "RB",
+      "value": 3408
+    },
+    {
+      "age": 32,
+      "name": "George Kittle",
+      "nfl": "SF",
+      "player_id": "4217",
+      "pos": "TE",
+      "value": 3396
+    },
+    {
+      "age": 25,
+      "name": "Wan'Dale Robinson",
+      "nfl": "TEN",
+      "player_id": "8126",
+      "pos": "WR",
+      "value": 3396
+    },
+    {
+      "age": 25,
+      "name": "RJ Harvey",
+      "nfl": "DEN",
+      "player_id": "12489",
+      "pos": "RB",
+      "value": 3396
+    },
+    {
+      "age": 26,
+      "name": "Jayden Reed",
+      "nfl": "GB",
+      "player_id": "10222",
+      "pos": "WR",
+      "value": 3395
+    },
+    {
+      "age": 28,
+      "name": "Michael Pittman",
+      "nfl": "PIT",
+      "player_id": "6819",
+      "pos": "WR",
+      "value": 3390
+    },
+    {
+      "age": 23,
+      "name": "Eli Stowers",
+      "nfl": "PHI",
+      "player_id": "13349",
+      "pos": "TE",
+      "value": 3385
+    },
+    {
+      "age": 27,
+      "name": "Jaylen Warren",
+      "nfl": "PIT",
+      "player_id": "8228",
+      "pos": "RB",
+      "value": 3352
+    },
+    {
+      "age": 23,
+      "name": "Xavier Worthy",
+      "nfl": "KC",
+      "player_id": "11624",
+      "pos": "WR",
+      "value": 3351
+    },
+    {
+      "age": 32,
+      "name": "Mike Evans",
+      "nfl": "SF",
+      "player_id": "2216",
+      "pos": "WR",
+      "value": 3347
+    },
+    {
+      "age": 23,
+      "name": "Oronde Gadsden",
+      "nfl": "LAC",
+      "player_id": "12493",
+      "pos": "TE",
+      "value": 3335
+    },
+    {
+      "age": 23,
+      "name": "Travis Hunter",
+      "nfl": "JAX",
+      "player_id": "12530",
+      "pos": "WR",
+      "value": 3306
+    },
+    {
+      "age": 27,
+      "name": "Chuba Hubbard",
+      "nfl": "CAR",
+      "player_id": "7594",
+      "pos": "RB",
+      "value": 3158
+    },
+    {
+      "age": 24,
+      "name": "Jalen Coker",
+      "nfl": "CAR",
+      "player_id": "11646",
+      "pos": "WR",
+      "value": 3157
+    },
+    {
+      "age": 26,
+      "name": "Dalton Kincaid",
+      "nfl": "BUF",
+      "player_id": "10236",
+      "pos": "TE",
+      "value": 3156
+    },
+    {
+      "age": 27,
+      "name": "Jake Ferguson",
+      "nfl": "DAL",
+      "player_id": "8110",
+      "pos": "TE",
+      "value": 3141
+    },
+    {
+      "age": 28,
+      "name": "Rico Dowdle",
+      "nfl": "PIT",
+      "player_id": "7021",
+      "pos": "RB",
+      "value": 3133
+    },
+    {
+      "age": 23,
+      "name": "De'Zhaun Stribling",
+      "nfl": "SF",
+      "player_id": "13417",
+      "pos": "WR",
+      "value": 3133
+    },
+    {
+      "age": 22,
+      "name": "Jonah Coleman",
+      "nfl": "DEN",
+      "player_id": "13345",
+      "pos": "RB",
+      "value": 3113
+    },
+    {
+      "age": 30,
+      "name": "Courtland Sutton",
+      "nfl": "DEN",
+      "player_id": "5045",
+      "pos": "WR",
+      "value": 3099
+    },
+    {
+      "age": 27,
+      "name": "J.K. Dobbins",
+      "nfl": "DEN",
+      "player_id": "6806",
+      "pos": "RB",
+      "value": 3089
+    },
+    {
+      "age": 25,
+      "name": "Jacory Croskey-Merritt",
+      "nfl": "WAS",
+      "player_id": "12533",
+      "pos": "RB",
+      "value": 3082
+    },
+    {
+      "age": 25,
+      "name": "Brenton Strange",
+      "nfl": "JAX",
+      "player_id": "9480",
+      "pos": "TE",
+      "value": 3036
+    },
+    {
+      "age": 22,
+      "name": "Antonio Williams",
+      "nfl": "WAS",
+      "player_id": "13301",
+      "pos": "WR",
+      "value": 3035
+    },
+    {
+      "age": 26,
+      "name": "Romeo Doubs",
+      "nfl": "NE",
+      "player_id": "8121",
+      "pos": "WR",
+      "value": 3034
+    },
+    {
+      "age": 28,
+      "name": "Rhamondre Stevenson",
+      "nfl": "NE",
+      "player_id": "7611",
+      "pos": "RB",
+      "value": 3028
+    },
+    {
+      "age": 24,
+      "name": "Jalen McMillan",
+      "nfl": "TB",
+      "player_id": "11618",
+      "pos": "WR",
+      "value": 3013
+    },
+    {
+      "age": 22,
+      "name": "Nicholas Singleton",
+      "nfl": "TEN",
+      "player_id": "13288",
+      "pos": "RB",
+      "value": 2951
+    },
+    {
+      "age": 22,
+      "name": "Chris Bell",
+      "nfl": "MIA",
+      "player_id": "13311",
+      "pos": "WR",
+      "value": 2943
+    },
+    {
+      "age": 29,
+      "name": "Jakobi Meyers",
+      "nfl": "JAX",
+      "player_id": "5947",
+      "pos": "WR",
+      "value": 2930
+    },
+    {
+      "age": 30,
+      "name": "Chris Godwin",
+      "nfl": "TB",
+      "player_id": "4037",
+      "pos": "WR",
+      "value": 2928
+    },
+    {
+      "age": 26,
+      "name": "Khalil Shakir",
+      "nfl": "BUF",
+      "player_id": "8134",
+      "pos": "WR",
+      "value": 2879
+    },
+    {
+      "age": 22,
+      "name": "Zachariah Branch",
+      "nfl": "ATL",
+      "player_id": "13320",
+      "pos": "WR",
+      "value": 2877
+    },
+    {
+      "age": 27,
+      "name": "Rashid Shaheed",
+      "nfl": "SEA",
+      "player_id": "8676",
+      "pos": "WR",
+      "value": 2859
+    },
+    {
+      "age": 22,
+      "name": "Germie Bernard",
+      "nfl": "PIT",
+      "player_id": "13274",
+      "pos": "WR",
+      "value": 2853
+    },
+    {
+      "age": 27,
+      "name": "Rachaad White",
+      "nfl": "WAS",
+      "player_id": "8136",
+      "pos": "RB",
+      "value": 2821
+    },
+    {
+      "age": 23,
+      "name": "Terrance Ferguson",
+      "nfl": "LAR",
+      "player_id": "12487",
+      "pos": "TE",
+      "value": 2821
+    },
+    {
+      "age": 27,
+      "name": "Jordan Mason",
+      "nfl": "MIN",
+      "player_id": "8408",
+      "pos": "RB",
+      "value": 2814
+    },
+    {
+      "age": 26,
+      "name": "Michael Penix",
+      "nfl": "ATL",
+      "player_id": "11559",
+      "pos": "QB",
+      "value": 2809
+    },
+    {
+      "age": 29,
+      "name": "Tony Pollard",
+      "nfl": "TEN",
+      "player_id": "5967",
+      "pos": "RB",
+      "value": 2808
+    },
+    {
+      "age": 32,
+      "name": "Stefon Diggs",
+      "nfl": "WAS",
+      "player_id": "2449",
+      "pos": "WR",
+      "value": 2795
+    },
+    {
+      "age": 24,
+      "name": "AJ Barner",
+      "nfl": "SEA",
+      "player_id": "11603",
+      "pos": "TE",
+      "value": 2777
+    },
+    {
+      "age": 25,
+      "name": "Woody Marks",
+      "nfl": "HOU",
+      "player_id": "12474",
+      "pos": "RB",
+      "value": 2773
+    },
+    {
+      "age": 30,
+      "name": "Mark Andrews",
+      "nfl": "BAL",
+      "player_id": "5012",
+      "pos": "TE",
+      "value": 2735
+    },
+    {
+      "age": 26,
+      "name": "Tyler Allgeier",
+      "nfl": "ARI",
+      "player_id": "8132",
+      "pos": "RB",
+      "value": 2729
+    },
+    {
+      "age": 24,
+      "name": "Isaac TeSlaa",
+      "nfl": "DET",
+      "player_id": "12535",
+      "pos": "WR",
+      "value": 2693
+    },
+    {
+      "age": 21,
+      "name": "Dylan Sampson",
+      "nfl": "CLE",
+      "player_id": "12469",
+      "pos": "RB",
+      "value": 2691
+    },
+    {
+      "age": 23,
+      "name": "Carson Beck",
+      "nfl": "ARI",
+      "player_id": "13272",
+      "pos": "QB",
+      "value": 2678
+    },
+    {
+      "age": 24,
+      "name": "Keaton Mitchell",
+      "nfl": "LAC",
+      "player_id": "9511",
+      "pos": "RB",
+      "value": 2677
+    },
+    {
+      "age": 24,
+      "name": "Tre' Harris",
+      "nfl": "LAC",
+      "player_id": "12509",
+      "pos": "WR",
+      "value": 2672
+    },
+    {
+      "age": 23,
+      "name": "Elijah Sarratt",
+      "nfl": "BAL",
+      "player_id": "13268",
+      "pos": "WR",
+      "value": 2654
+    },
+    {
+      "age": 24,
+      "name": "Shedeur Sanders",
+      "nfl": "CLE",
+      "player_id": "12524",
+      "pos": "QB",
+      "value": 2648
+    },
+    {
+      "age": 31,
+      "name": "Dallas Goedert",
+      "nfl": "PHI",
+      "player_id": "5022",
+      "pos": "TE",
+      "value": 2636
+    },
+    {
+      "age": 23,
+      "name": "Tank Bigsby",
+      "nfl": "PHI",
+      "player_id": "9225",
+      "pos": "RB",
+      "value": 2627
+    },
+    {
+      "age": 25,
+      "name": "Malik Washington",
+      "nfl": "MIA",
+      "player_id": "11610",
+      "pos": "WR",
+      "value": 2618
+    },
+    {
+      "age": 22,
+      "name": "Malachi Fields",
+      "nfl": "NYG",
+      "player_id": "13285",
+      "pos": "WR",
+      "value": 2611
+    },
+    {
+      "age": 23,
+      "name": "Adonai Mitchell",
+      "nfl": "NYJ",
+      "player_id": "11625",
+      "pos": "WR",
+      "value": 2610
+    },
+    {
+      "age": 22,
+      "name": "Ted Hurst",
+      "nfl": "TB",
+      "player_id": "13317",
+      "pos": "WR",
+      "value": 2609
+    },
+    {
+      "age": 26,
+      "name": "Chris Rodriguez",
+      "nfl": "JAX",
+      "player_id": "10219",
+      "pos": "RB",
+      "value": 2607
+    },
+    {
+      "age": 23,
+      "name": "Tory Horton",
+      "nfl": "SEA",
+      "player_id": "12497",
+      "pos": "WR",
+      "value": 2603
+    },
+    {
+      "age": 24,
+      "name": "Kayshon Boutte",
+      "nfl": "NE",
+      "player_id": "9504",
+      "pos": "WR",
+      "value": 2598
+    },
+    {
+      "age": 26,
+      "name": "Tyrone Tracy",
+      "nfl": "NYG",
+      "player_id": "11655",
+      "pos": "RB",
+      "value": 2596
+    },
+    {
+      "age": 23,
+      "name": "Jaylin Noel",
+      "nfl": "HOU",
+      "player_id": "12536",
+      "pos": "WR",
+      "value": 2593
+    },
+    {
+      "age": 26,
+      "name": "Tank Dell",
+      "nfl": "HOU",
+      "player_id": "9502",
+      "pos": "WR",
+      "value": 2592
+    },
+    {
+      "age": 29,
+      "name": "T.J. Hockenson",
+      "nfl": "MIN",
+      "player_id": "5844",
+      "pos": "TE",
+      "value": 2588
+    },
+    {
+      "age": 23,
+      "name": "Gunnar Helm",
+      "nfl": "TEN",
+      "player_id": "12502",
+      "pos": "TE",
+      "value": 2588
+    },
+    {
+      "age": 22,
+      "name": "Ja'Kobi Lane",
+      "nfl": "BAL",
+      "player_id": "13293",
+      "pos": "WR",
+      "value": 2586
+    },
+    {
+      "age": 23,
+      "name": "J.J. McCarthy",
+      "nfl": "MIN",
+      "player_id": "11565",
+      "pos": "QB",
+      "value": 2577
+    },
+    {
+      "age": 28,
+      "name": "Tua Tagovailoa",
+      "nfl": "ATL",
+      "player_id": "6768",
+      "pos": "QB",
+      "value": 2574
+    },
+    {
+      "age": 36,
+      "name": "Travis Kelce",
+      "nfl": "KC",
+      "player_id": "1466",
+      "pos": "TE",
+      "value": 2570
+    },
+    {
+      "age": 33,
+      "name": "Jacoby Brissett",
+      "nfl": "ARI",
+      "player_id": "3257",
+      "pos": "QB",
+      "value": 2565
+    },
+    {
+      "age": 22,
+      "name": "Braelon Allen",
+      "nfl": "NYJ",
+      "player_id": "11576",
+      "pos": "RB",
+      "value": 2553
+    },
+    {
+      "age": 25,
+      "name": "Ricky Pearsall",
+      "nfl": "SF",
+      "player_id": "11638",
+      "pos": "WR",
+      "value": 2538
+    },
+    {
+      "age": 27,
+      "name": "Jalen Nailor",
+      "nfl": "LV",
+      "player_id": "8180",
+      "pos": "WR",
+      "value": 2526
+    },
+    {
+      "age": 25,
+      "name": "Dontayvion Wicks",
+      "nfl": "PHI",
+      "player_id": "9486",
+      "pos": "WR",
+      "value": 2518
+    },
+    {
+      "age": 27,
+      "name": "Mac Jones",
+      "nfl": "SF",
+      "player_id": "7527",
+      "pos": "QB",
+      "value": 2511
+    },
+    {
+      "age": 23,
+      "name": "Troy Franklin",
+      "nfl": "DEN",
+      "player_id": "11627",
+      "pos": "WR",
+      "value": 2511
+    },
+    {
+      "age": 25,
+      "name": "Tyjae Spears",
+      "nfl": "TEN",
+      "player_id": "9508",
+      "pos": "RB",
+      "value": 2507
+    },
+    {
+      "age": 23,
+      "name": "Pat Bryant",
+      "nfl": "DEN",
+      "player_id": "12492",
+      "pos": "WR",
+      "value": 2506
+    },
+    {
+      "age": 25,
+      "name": "Tre Tucker",
+      "nfl": "LV",
+      "player_id": "10213",
+      "pos": "WR",
+      "value": 2495
+    },
+    {
+      "age": 27,
+      "name": "Jerry Jeudy",
+      "nfl": "CLE",
+      "player_id": "6783",
+      "pos": "WR",
+      "value": 2485
+    },
+    {
+      "age": 23,
+      "name": "Elic Ayomanor",
+      "nfl": "TEN",
+      "player_id": "12499",
+      "pos": "WR",
+      "value": 2485
+    },
+    {
+      "age": 22,
+      "name": "Emmett Johnson",
+      "nfl": "KC",
+      "player_id": "13337",
+      "pos": "RB",
+      "value": 2473
+    },
+    {
+      "age": 23,
+      "name": "Kaytron Allen",
+      "nfl": "WAS",
+      "player_id": "13405",
+      "pos": "RB",
+      "value": 2468
+    },
+    {
+      "age": 23,
+      "name": "Elijah Arroyo",
+      "nfl": "SEA",
+      "player_id": "12521",
+      "pos": "TE",
+      "value": 2453
+    },
+    {
+      "age": 30,
+      "name": "Deebo Samuel",
+      "nfl": "SF",
+      "player_id": "5872",
+      "pos": "WR",
+      "value": 2385
+    },
+    {
+      "age": 24,
+      "name": "Skyler Bell",
+      "nfl": "BUF",
+      "player_id": "13402",
+      "pos": "WR",
+      "value": 2381
+    },
+    {
+      "age": 29,
+      "name": "Juwan Johnson",
+      "nfl": "NO",
+      "player_id": "7002",
+      "pos": "TE",
+      "value": 2349
+    }
+  ],
+  "league": {
+    "league_id": "1361809642883129344",
+    "name": "Technically This Counts As Sportsbetting",
+    "roster_positions": [
+      "QB",
+      "RB",
+      "RB",
+      "WR",
+      "WR",
+      "TE",
+      "FLEX",
+      "FLEX",
+      "SUPER_FLEX",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN"
+    ],
+    "scoring": {
+      "blk_kick": 2.0,
+      "def_st_ff": 1.0,
+      "def_st_fum_rec": 1.0,
+      "def_st_td": 6.0,
+      "def_td": 6.0,
+      "ff": 1.0,
+      "fgm_0_19": 3.0,
+      "fgm_20_29": 3.0,
+      "fgm_30_39": 3.0,
+      "fgm_40_49": 4.0,
+      "fgm_50p": 5.0,
+      "fgmiss": -1.0,
+      "fum": -1.0,
+      "fum_lost": -1.0,
+      "fum_rec": 1.0,
+      "fum_rec_td": 6.0,
+      "int": 2.0,
+      "pass_2pt": 2.0,
+      "pass_int": -2.0,
+      "pass_td": 4.0,
+      "pass_yd": 0.04,
+      "pts_allow_0": 10.0,
+      "pts_allow_14_20": 1.0,
+      "pts_allow_1_6": 7.0,
+      "pts_allow_21_27": 0.0,
+      "pts_allow_28_34": -1.0,
+      "pts_allow_35p": -4.0,
+      "pts_allow_7_13": 4.0,
+      "rec": 0.5,
+      "rec_2pt": 2.0,
+      "rec_fd": 0.0,
+      "rec_td": 6.0,
+      "rec_yd": 0.1,
+      "rush_2pt": 2.0,
+      "rush_fd": 0.0,
+      "rush_td": 6.0,
+      "rush_yd": 0.1,
+      "sack": 1.0,
+      "safe": 2.0,
+      "st_ff": 1.0,
+      "st_fum_rec": 1.0,
+      "st_td": 6.0,
+      "xpm": 1.0,
+      "xpmiss": -1.0
+    },
+    "season": "2026",
+    "status": "drafting",
+    "total_rosters": 10
+  },
+  "pick_values": [
+    {
+      "ktc_id": 1702,
+      "label": "2027 Early 1st",
+      "value": 7110
+    },
+    {
+      "ktc_id": 1703,
+      "label": "2027 Mid 1st",
+      "value": 5568
+    },
+    {
+      "ktc_id": 1527,
+      "label": "2026 Early 1st",
+      "value": 5558
+    },
+    {
+      "ktc_id": 1882,
+      "label": "2028 Early 1st",
+      "value": 5075
+    },
+    {
+      "ktc_id": 1704,
+      "label": "2027 Late 1st",
+      "value": 4848
+    },
+    {
+      "ktc_id": 1528,
+      "label": "2026 Mid 1st",
+      "value": 4634
+    },
+    {
+      "ktc_id": 1883,
+      "label": "2028 Mid 1st",
+      "value": 4524
+    },
+    {
+      "ktc_id": 1884,
+      "label": "2028 Late 1st",
+      "value": 4038
+    },
+    {
+      "ktc_id": 1529,
+      "label": "2026 Late 1st",
+      "value": 3951
+    },
+    {
+      "ktc_id": 1705,
+      "label": "2027 Early 2nd",
+      "value": 3723
+    },
+    {
+      "ktc_id": 1706,
+      "label": "2027 Mid 2nd",
+      "value": 3430
+    },
+    {
+      "ktc_id": 1530,
+      "label": "2026 Early 2nd",
+      "value": 3320
+    },
+    {
+      "ktc_id": 1885,
+      "label": "2028 Early 2nd",
+      "value": 3185
+    },
+    {
+      "ktc_id": 1707,
+      "label": "2027 Late 2nd",
+      "value": 3151
+    },
+    {
+      "ktc_id": 1531,
+      "label": "2026 Mid 2nd",
+      "value": 3072
+    },
+    {
+      "ktc_id": 1886,
+      "label": "2028 Mid 2nd",
+      "value": 3000
+    },
+    {
+      "ktc_id": 1532,
+      "label": "2026 Late 2nd",
+      "value": 2845
+    },
+    {
+      "ktc_id": 1887,
+      "label": "2028 Late 2nd",
+      "value": 2845
+    },
+    {
+      "ktc_id": 1708,
+      "label": "2027 Early 3rd",
+      "value": 2613
+    },
+    {
+      "ktc_id": 1709,
+      "label": "2027 Mid 3rd",
+      "value": 2509
+    },
+    {
+      "ktc_id": 1533,
+      "label": "2026 Early 3rd",
+      "value": 2422
+    },
+    {
+      "ktc_id": 1710,
+      "label": "2027 Late 3rd",
+      "value": 2240
+    },
+    {
+      "ktc_id": 1534,
+      "label": "2026 Mid 3rd",
+      "value": 2215
+    },
+    {
+      "ktc_id": 1888,
+      "label": "2028 Early 3rd",
+      "value": 2176
+    },
+    {
+      "ktc_id": 1889,
+      "label": "2028 Mid 3rd",
+      "value": 2084
+    },
+    {
+      "ktc_id": 1535,
+      "label": "2026 Late 3rd",
+      "value": 2080
+    },
+    {
+      "ktc_id": 1890,
+      "label": "2028 Late 3rd",
+      "value": 2014
+    },
+    {
+      "ktc_id": 1711,
+      "label": "2027 Early 4th",
+      "value": 1836
+    },
+    {
+      "ktc_id": 1536,
+      "label": "2026 Early 4th",
+      "value": 1701
+    },
+    {
+      "ktc_id": 1712,
+      "label": "2027 Mid 4th",
+      "value": 1698
+    },
+    {
+      "ktc_id": 1713,
+      "label": "2027 Late 4th",
+      "value": 1613
+    },
+    {
+      "ktc_id": 1537,
+      "label": "2026 Mid 4th",
+      "value": 1609
+    },
+    {
+      "ktc_id": 1891,
+      "label": "2028 Early 4th",
+      "value": 1595
+    },
+    {
+      "ktc_id": 1538,
+      "label": "2026 Late 4th",
+      "value": 1536
+    },
+    {
+      "ktc_id": 1892,
+      "label": "2028 Mid 4th",
+      "value": 1528
+    },
+    {
+      "ktc_id": 1893,
+      "label": "2028 Late 4th",
+      "value": 1334
+    }
+  ],
+  "players": {},
+  "teams": [
+    {
+      "losses": 0,
+      "manager": "SecondStrike23",
+      "name": "SecondStrike23",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 1,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "JulianRah",
+      "name": "JulianRah",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 2,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "rorocks007",
+      "name": "rorocks007",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 3,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "KJsuited",
+      "name": "KJsuited",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 4,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "ploscammer",
+      "name": "ploscammer",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 5,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "phamster10",
+      "name": "phamster10",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 6,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "willchis",
+      "name": "willchis",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 7,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "Greggio69",
+      "name": "Greggio69",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 8,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "gorrie",
+      "name": "gorrie",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 9,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "losses": 0,
+      "manager": "emasterwarrior",
+      "name": "emasterwarrior",
+      "players": [],
+      "points_for": 0,
+      "roster_id": 10,
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "ties": 0,
+      "wins": 0
+    }
+  ],
+  "traded_picks": [
+    {
+      "owner_id": 3,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 3,
+      "season": "2026"
+    },
+    {
+      "owner_id": 3,
+      "previous_owner_id": 1,
+      "roster_id": 1,
+      "round": 4,
+      "season": "2027"
+    },
+    {
+      "owner_id": 1,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 24,
+      "season": "2026"
+    },
+    {
+      "owner_id": 1,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 1,
+      "season": "2027"
+    },
+    {
+      "owner_id": 1,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 1,
+      "season": "2028"
+    }
+  ],
+  "values": {}
+}
